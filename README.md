@@ -2,8 +2,6 @@
 
 # Samuel Chinaemerem Obiajunwa
 <br>
-<b>SOC Analyst · Threat Detection & Triage · Incident Response · Cloud & Network Security</b>
-<br>
 
 Cybersecurity professional with a B.S. in Cybersecurity & Information Assurance and 10+ industry certifications, including CompTIA Security+,
 CySA+, PenTest+, and ISC2 SSCP. Hands-on experience in alert triage, log analysis, threat detection, and the full incident response lifecycle,
@@ -30,7 +28,7 @@ networking, endpoint administration, access control, and PHI handling under HIPA
 <img src="https://img.shields.io/badge/EXPLORE_CYBERSECURITY_PORTFOLIO-161B22?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<br>
+<br><br>
 
 | Area                         | Project                                                                                                                                                           | Focus                                         |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
@@ -54,7 +52,7 @@ networking, endpoint administration, access control, and PHI handling under HIPA
 <img src="https://img.shields.io/badge/EXPLORE_NETWORKING_PORTFOLIO-161B22?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<br>
+<br><br>
 
 | Area                      | Project                                                                                                                                       | Focus                                   |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
@@ -76,7 +74,7 @@ networking, endpoint administration, access control, and PHI handling under HIPA
 <img src="https://img.shields.io/badge/EXPLORE_DEVOPS_PORTFOLIO-161B22?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<br>
+<br><br>
 
 | Area                          | Project                                                                                                                                      | Focus                               |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
