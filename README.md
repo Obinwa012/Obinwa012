@@ -21,21 +21,16 @@ I'm a cybersecurity practitioner with a B.S. in Cybersecurity & Information Assu
 
 ### Completed
 
-<p>
-<img src="https://img.shields.io/badge/CompTIA-Security%2B-EA1B2D?style=flat-square">
-<img src="https://img.shields.io/badge/CompTIA-CySA%2B-EA1B2D?style=flat-square">
-<img src="https://img.shields.io/badge/CompTIA-PenTest%2B-EA1B2D?style=flat-square">
-<img src="https://img.shields.io/badge/CompTIA-Network%2B-EA1B2D?style=flat-square">
-<img src="https://img.shields.io/badge/CompTIA-A%2B-EA1B2D?style=flat-square">
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/CompTIA-Project%2B-EA1B2D?style=flat-square">
-<img src="https://img.shields.io/badge/ISC2-SSCP-006272?style=flat-square">
-<img src="https://img.shields.io/badge/ISC2-CC-006272?style=flat-square">
-<img src="https://img.shields.io/badge/LPI-Linux%20Essentials-F58025?style=flat-square">
-<img src="https://img.shields.io/badge/ITIL-4%20Foundation-5A2A82?style=flat-square">
-</p>
+<img src="https://img.shields.io/badge/CompTIA%20Security%2B-EA1B2D?style=for-the-badge&logo=comptia&logoColor=white">
+<img src="https://img.shields.io/badge/CompTIA%20CySA%2B-EA1B2D?style=for-the-badge&logo=comptia&logoColor=white">
+<img src="https://img.shields.io/badge/CompTIA%20PenTest%2B-EA1B2D?style=for-the-badge&logo=comptia&logoColor=white">
+<img src="https://img.shields.io/badge/CompTIA%20Network%2B-EA1B2D?style=for-the-badge&logo=comptia&logoColor=white">
+<img src="https://img.shields.io/badge/CompTIA%20A%2B-EA1B2D?style=for-the-badge&logo=comptia&logoColor=white">
+<img src="https://img.shields.io/badge/CompTIA%20Project%2B-EA1B2D?style=for-the-badge&logo=comptia&logoColor=white">
+<img src="https://img.shields.io/badge/ISC2%20SSCP-006272?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/ISC2%20CC-006272?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/LPI%20Linux%20Essentials-F58025?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/ITIL%204%20Foundation-5A2A82?style=for-the-badge&logoColor=white">
 
 ### Currently Pursuing
 
