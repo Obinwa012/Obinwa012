@@ -5,11 +5,7 @@
 
 I'm a cybersecurity practitioner with a B.S. in Cybersecurity & Information Assurance (WGU) and five years of hands-on IT work across networking, endpoint administration, access control, and HIPAA-regulated data handling. I built and run a cloud-hosted SOC on Wazuh, where I triage real attack traffic, tune detections, and work incidents end to end. This GitHub is where I document that work: runbooks, detection rules, incident reports, and the tools I write along the way.
 
----
-
 # 🎓 Certifications
-
-### Completed
 
 <img src="https://img.shields.io/badge/CompTIA%20Security%2B-EA1B2D?style=for-the-badge&logo=comptia&logoColor=white">
 <img src="https://img.shields.io/badge/CompTIA%20CySA%2B-EA1B2D?style=for-the-badge&logo=comptia&logoColor=white">
@@ -22,11 +18,7 @@ I'm a cybersecurity practitioner with a B.S. in Cybersecurity & Information Assu
 <img src="https://img.shields.io/badge/LPI%20Linux%20Essentials-F58025?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/ITIL%204%20Foundation-5A2A82?style=for-the-badge&logoColor=white">
 
----
-
 # 🛡️ Cybersecurity
-
-### SOC Operations · Incident Response · Detection Engineering
 
 <a href="https://github.com/Obinwa012/cybersecurity-portfolio">
 <img src="https://img.shields.io/badge/EXPLORE_CYBERSECURITY_PORTFOLIO-161B22?style=for-the-badge&logo=github&logoColor=white">
@@ -48,11 +40,7 @@ I'm a cybersecurity practitioner with a B.S. in Cybersecurity & Information Assu
 `SOC Operations` `SIEM/XDR` `Incident Response` `Threat Detection` `Log Analysis`
 `MITRE ATT&CK` `NIST CSF` `Network Security` `Vulnerability Management`
 
----
-
 # 🌐 Networking
-
-### Network Security · Infrastructure · Automation
 
 <a href="https://github.com/Obinwa012/networking-portfolio">
 <img src="https://img.shields.io/badge/EXPLORE_NETWORKING_PORTFOLIO-161B22?style=for-the-badge&logo=github&logoColor=white">
@@ -72,11 +60,7 @@ I'm a cybersecurity practitioner with a B.S. in Cybersecurity & Information Assu
 `FortiGate` `Cisco` `Juniper` `Arista` `TCP/IP` `DNS`
 `VLANs` `Routing & Switching` `VPN` `Network Troubleshooting`
 
----
-
 # ⚙️ Software Engineering
-
-### Full-Stack Development · CI/CD · Infrastructure as Code
 
 <a href="https://github.com/Obinwa012/devops-portfolio">
 <img src="https://img.shields.io/badge/EXPLORE_DEVOPS_PORTFOLIO-161B22?style=for-the-badge&logo=github&logoColor=white">
