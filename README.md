@@ -1,15 +1,17 @@
 <div>
 
-# Samuel Chinaemerem Obiajunwa</br>
-<b>SOC Analyst · Threat Detection & Triage · Incident Response · Cloud & Network Security</b><br>
+# Samuel Chinaemerem Obiajunwa
+<br>
+<b>SOC Analyst · Threat Detection & Triage · Incident Response · Cloud & Network Security</b>
+<br>
 
 Cybersecurity professional with a B.S. in Cybersecurity & Information Assurance and 10+ industry certifications, including CompTIA Security+,
 CySA+, PenTest+, and ISC2 SSCP. Hands-on experience in alert triage, log analysis, threat detection, and the full incident response lifecycle,
 developed by building and operating a cloud-based SOC on Wazuh SIEM/XDR. Backed by five years of enterprise IT experience across
 networking, endpoint administration, access control, and PHI handling under HIPAA.
+<br><br>
 
 # 🎓 Certifications
-
 <img src="https://img.shields.io/badge/CompTIA%20Security%2B-EA1B2D?style=for-the-badge&logo=comptia&logoColor=white">
 <img src="https://img.shields.io/badge/CompTIA%20CySA%2B-EA1B2D?style=for-the-badge&logo=comptia&logoColor=white">
 <img src="https://img.shields.io/badge/CompTIA%20PenTest%2B-EA1B2D?style=for-the-badge&logo=comptia&logoColor=white">
@@ -20,6 +22,7 @@ networking, endpoint administration, access control, and PHI handling under HIPA
 <img src="https://img.shields.io/badge/ISC2%20CC-006272?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/LPI%20Linux%20Essentials-F58025?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/ITIL%204%20Foundation-5A2A82?style=for-the-badge&logoColor=white">
+<br><br>
 
 # 🛡️ Cybersecurity
 
@@ -27,7 +30,7 @@ networking, endpoint administration, access control, and PHI handling under HIPA
 <img src="https://img.shields.io/badge/EXPLORE_CYBERSECURITY_PORTFOLIO-161B22?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<br><br>
+<br>
 
 | Area                         | Project                                                                                                                                                           | Focus                                         |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
@@ -43,13 +46,15 @@ networking, endpoint administration, access control, and PHI handling under HIPA
 `SOC Operations` `SIEM/XDR` `Incident Response` `Threat Detection` `Log Analysis`
 `MITRE ATT&CK` `NIST CSF` `Network Security` `Vulnerability Management`
 
+<br><br>
+
 # 🌐 Networking
 
 <a href="https://github.com/Obinwa012/networking-portfolio">
 <img src="https://img.shields.io/badge/EXPLORE_NETWORKING_PORTFOLIO-161B22?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<br><br>
+<br>
 
 | Area                      | Project                                                                                                                                       | Focus                                   |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
@@ -63,13 +68,15 @@ networking, endpoint administration, access control, and PHI handling under HIPA
 `FortiGate` `Cisco` `Juniper` `Arista` `TCP/IP` `DNS`
 `VLANs` `Routing & Switching` `VPN` `Network Troubleshooting`
 
+<br><br>
+
 # ⚙️ Software Engineering
 
 <a href="https://github.com/Obinwa012/devops-portfolio">
 <img src="https://img.shields.io/badge/EXPLORE_DEVOPS_PORTFOLIO-161B22?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<br><br>
+<br>
 
 | Area                          | Project                                                                                                                                      | Focus                               |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
