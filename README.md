@@ -22,10 +22,6 @@ I'm a cybersecurity practitioner with a B.S. in Cybersecurity & Information Assu
 <img src="https://img.shields.io/badge/LPI%20Linux%20Essentials-F58025?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/ITIL%204%20Foundation-5A2A82?style=for-the-badge&logoColor=white">
 
-### Currently Pursuing
-
-`ISC2 CCSP` · `Microsoft 365 Endpoint Administrator Associate`
-
 ---
 
 # 🛡️ Cybersecurity
