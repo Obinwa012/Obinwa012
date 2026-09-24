@@ -3,16 +3,6 @@
 # Samuel Chinaemerem Obiajunwa</br>
 <b>SOC Analyst · Threat Detection & Triage · Incident Response · Cloud & Network Security</b><br>
 
-<div>
-  <a href="https://linkedin.com/in/obinwa012">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:Obiajunwasamuel9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>
-
 I'm a cybersecurity practitioner with a B.S. in Cybersecurity & Information Assurance (WGU) and five years of hands-on IT work across networking, endpoint administration, access control, and HIPAA-regulated data handling. I built and run a cloud-hosted SOC on Wazuh, where I triage real attack traffic, tune detections, and work incidents end to end. This GitHub is where I document that work: runbooks, detection rules, incident reports, and the tools I write along the way.
 
 ---
