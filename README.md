@@ -1,71 +1,335 @@
-<h1 align="center">Samuel Chinaemerem Obiajunwa</h1>
-<p align="center">
-  <b>SOC Analyst · Threat Detection & Triage · Incident Response · Cloud & Network Security</b><br>
-  Garland, TX · Open to SOC Analyst (Tier 1/2) roles
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/obinwa012"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:Obiajunwasamuel9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+# 🔐 Samuel Obiajunwa
 
----
+### Security Engineer · Network Security · DevSecOps
 
-### About me
+**Security-focused engineer bridging SOC operations, network security, and DevOps automation**
 
-I'm a cybersecurity practitioner with a B.S. in Cybersecurity & Information Assurance (WGU) and five years of hands-on IT work across networking, endpoint administration, access control, and HIPAA-regulated data handling. I built and run a cloud-hosted SOC on Wazuh, where I triage real attack traffic, tune detections, and work incidents end to end. This GitHub is where I document that work: runbooks, detection rules, incident reports, and the tools I write along the way.
+B.S. Cybersecurity & Information Assurance · M.S. Software Engineering (DevOps), in progress
+📍 Garland, Texas · Open to Dallas–Fort Worth & Remote Opportunities
 
----
+<br>
 
-### Featured projects
+<a href="https://linkedin.com/in/obinwa012">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="mailto:Obiajunwasamuel9@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+&nbsp;
+<a href="https://github.com/Obinwa012">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-#### 🛡️ [Cloud-Based Enterprise SOC Lab — Wazuh SIEM/XDR](https://github.com/Obinwa012/soc-lab)
-A cloud SOC simulating a freight-logistics company, with Wazuh agents on Linux and Windows hosts.
+<br><br>
 
-- **Brute-force detection:** triaged an automated campaign from 34 source IPs (5,000+ failed logins), investigated IOCs, and hardened exposed services with Fail2Ban, SSH keys, and IP allowlisting.
-- **Full IR lifecycle:** detected, contained, eradicated, and rebuilt after a malware infection, and wrote the incident report with lessons learned.
-- **Detection engineering:** tuned rules from false-positive trends and built an alert-investigation runbook mapped to MITRE ATT&CK.
+<img src="https://komarev.com/ghpvc/?username=Obinwa012&style=flat-square&color=blue" alt="Profile Views">
 
-`Wazuh` `FIM` `MITRE ATT&CK` `Fail2Ban` `Linux` `Windows` `Incident Response`
-
-#### 🐍 [Network Equipment Test Automation](https://github.com/Obinwa012/network-test-automation)
-A Python tool that replaced a high-volume manual workflow for validating Cisco, Juniper, and Arista equipment and logging results to an ERP system.
-
-`Python` `Automation` `Networking`
-
-#### 🛒 [XHIBO.com — Full-Stack E-Commerce Platform](https://xhibo.com)
-A production e-commerce site I built and operate, owning authentication, session management, access control, and customer data handling.
-
-`React` `Firebase` `Authentication` `Access Control`
+</div>
 
 ---
 
-### Certifications
+## 🧭 About Me
 
-**Completed:** CompTIA Security+ · CySA+ · PenTest+ · Network+ · A+ · Project+ · ISC2 SSCP · ISC2 CC · LPI Linux Essentials · ITIL 4 Foundation
-**In progress:** ISC2 CCSP · Microsoft 365 Endpoint Administrator Associate
+I work where **security, networks, and software engineering meet**.
+
+I operate a cloud-hosted **SOC environment using Wazuh**, where I investigate real attack traffic, perform alert triage, analyze logs, and work incidents through the investigation and response lifecycle.
+
+My professional experience also includes diagnosing and validating enterprise **Cisco, Juniper, and Arista** networking equipment, while my graduate studies focus on **software engineering and DevOps**.
+
+I currently hold **10 industry certifications**, including CompTIA Security+, CySA+, PenTest+, and ISC2 SSCP, with approximately **five years of hands-on IT experience**.
+
+My work is organized into three technical portfolios:
+
+---
+
+# 🛡️ Cybersecurity
+
+### SOC Operations · Incident Response · Detection Engineering
+
+<a href="https://github.com/Obinwa012/cybersecurity-portfolio">
+<img src="https://img.shields.io/badge/EXPLORE_CYBERSECURITY_PORTFOLIO-161B22?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+| Area                         | Project                                                                                                                                                           | Focus                                         |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| 🖥️ **SOC Operations**       | [Cloud-Based Enterprise SOC Lab](https://github.com/Obinwa012/cybersecurity-portfolio/tree/main/soc-operations/wazuh-soc-lab)                                     | Wazuh SIEM/XDR · Monitoring · Alert Triage    |
+| 🚨 **Incident Response**     | [SSH Brute-Force Investigation](https://github.com/Obinwa012/cybersecurity-portfolio/tree/main/incident-response/ssh-brute-force-investigation)                   | 34 IPs · 5,000+ Failed Logins · Investigation |
+| 🦠 **Incident Response**     | [Malware Incident: Containment to Cloud Rebuild](https://github.com/Obinwa012/cybersecurity-portfolio/tree/main/incident-response/malware-incident-cloud-rebuild) | Containment · Eradication · Recovery          |
+| 🎯 **Detection Engineering** | [Wazuh Rule Tuning & Triage Runbook](https://github.com/Obinwa012/cybersecurity-portfolio/tree/main/detection-engineering/wazuh-rule-tuning)                      | MITRE ATT&CK · Detection · Triage             |
+
+<br>
+
+**Core Security Focus**
+
+`SOC Operations` `SIEM/XDR` `Incident Response` `Threat Detection` `Log Analysis`
+`MITRE ATT&CK` `NIST CSF` `Network Security` `Vulnerability Management`
+
+---
+
+# 🌐 Networking
+
+### Network Security · Infrastructure · Automation
+
+<a href="https://github.com/Obinwa012/networking-portfolio">
+<img src="https://img.shields.io/badge/EXPLORE_NETWORKING_PORTFOLIO-161B22?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+| Area                      | Project                                                                                                                                       | Focus                                   |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| 🔥 **Network Security**   | [FortiGate Firewall Configuration](https://github.com/Obinwa012/networking-portfolio/tree/main/network-security/fortigate-configuration)      | Firewall Policies · Security Controls   |
+| 🤖 **Network Automation** | [Network Equipment Test Automation](https://github.com/Obinwa012/networking-portfolio/tree/main/network-automation/equipment-test-automation) | Python · Automated Testing · Validation |
+
+<br>
+
+**Networking Environment**
+
+`FortiGate` `Cisco` `Juniper` `Arista` `TCP/IP` `DNS`
+`VLANs` `Routing & Switching` `VPN` `Network Troubleshooting`
+
+---
+
+# ⚙️ DevOps & Software Engineering
+
+### Full-Stack Development · CI/CD · Infrastructure as Code
+
+<a href="https://github.com/Obinwa012/devops-portfolio">
+<img src="https://img.shields.io/badge/EXPLORE_DEVOPS_PORTFOLIO-161B22?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+| Area                          | Project                                                                                                                                      | Focus                               |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| 💻 **Full-Stack Development** | [XHIBO.com — Production E-Commerce Platform](https://github.com/Obinwa012/devops-portfolio/tree/main/full-stack-development/xhibo-ecommerce) | Full-Stack · React · Firebase       |
+| 🔄 **DevOps**                 | *More projects coming*                                                                                                                       | CI/CD · Automation · Infrastructure |
+
+<br>
+
+**Engineering Focus**
+
+`Python` `Bash` `PowerShell` `JavaScript` `React` `SQL`
+`Firebase` `Git` `CI/CD` `Infrastructure as Code`
+
+---
+
+# 🧰 Technical Toolkit
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Security
+
+* Wazuh
+* Splunk
+* Wireshark
+* Nmap
+* Nessus
+* Fail2Ban
+* MITRE ATT&CK
+* NIST CSF
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Networking
+
+* FortiGate
+* Cisco
+* Juniper
+* Arista
+* TCP/IP
+* DNS
+* VLANs
+* Routing & Switching
+* VPN
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Systems & Cloud
+
+* Linux
+* Windows
+* Active Directory
+* Entra ID
+* Microsoft 365
+* Intune
+* Microsoft Defender
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Development & DevOps
+
+* Python
+* Bash
+* PowerShell
+* SQL
+* JavaScript
+* React
+* Firebase
+* Git
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎓 Certifications
+
+### Completed
 
 <p>
-  <img src="https://img.shields.io/badge/Security+-C8202F?style=flat-square&logo=comptia&logoColor=white" alt="Security+">
-  <img src="https://img.shields.io/badge/CySA+-C8202F?style=flat-square&logo=comptia&logoColor=white" alt="CySA+">
-  <img src="https://img.shields.io/badge/PenTest+-C8202F?style=flat-square&logo=comptia&logoColor=white" alt="PenTest+">
-  <img src="https://img.shields.io/badge/ISC2_SSCP-006341?style=flat-square" alt="SSCP">
-  <img src="https://img.shields.io/badge/ISC2_CC-006341?style=flat-square" alt="CC">
+<img src="https://img.shields.io/badge/CompTIA-Security%2B-EA1B2D?style=flat-square">
+<img src="https://img.shields.io/badge/CompTIA-CySA%2B-EA1B2D?style=flat-square">
+<img src="https://img.shields.io/badge/CompTIA-PenTest%2B-EA1B2D?style=flat-square">
+<img src="https://img.shields.io/badge/CompTIA-Network%2B-EA1B2D?style=flat-square">
+<img src="https://img.shields.io/badge/CompTIA-A%2B-EA1B2D?style=flat-square">
 </p>
 
+<p>
+<img src="https://img.shields.io/badge/CompTIA-Project%2B-EA1B2D?style=flat-square">
+<img src="https://img.shields.io/badge/ISC2-SSCP-006272?style=flat-square">
+<img src="https://img.shields.io/badge/ISC2-CC-006272?style=flat-square">
+<img src="https://img.shields.io/badge/LPI-Linux%20Essentials-F58025?style=flat-square">
+<img src="https://img.shields.io/badge/ITIL-4%20Foundation-5A2A82?style=flat-square">
+</p>
+
+### Currently Pursuing
+
+`ISC2 CCSP` · `Microsoft 365 Endpoint Administrator Associate`
+
 ---
 
-### Toolkit
+# 🔭 Currently
 
-**Security operations:** Wazuh · Splunk · Wireshark · Nmap · Nessus · Fail2Ban · MITRE ATT&CK · NIST CSF
-**Systems & cloud:** Linux · Windows · Active Directory · Entra ID · Microsoft 365 · Intune · Defender
-**Networking:** TCP/IP · DNS · VLANs · routing & switching · firewalls · Cisco / Juniper / Arista
-**Scripting:** Python · Bash · PowerShell · SQL · JavaScript
+<table>
+<tr>
+<td>🔥</td>
+<td><strong>FortiGate Lab</strong><br>Configuring and testing firewall security controls</td>
+</tr>
+<tr>
+<td>🎓</td>
+<td><strong>M.S. Software Engineering</strong><br>DevOps-focused graduate studies</td>
+</tr>
+<tr>
+<td>📚</td>
+<td><strong>ISC2 CCSP</strong><br>Currently studying for certification</td>
+</tr>
+<tr>
+<td>💼</td>
+<td><strong>Open to Opportunities</strong><br>Security Engineering · Network Security · DevSecOps</td>
+</tr>
+</table>
 
 ---
 
-### Currently
+# 📊 GitHub Activity
 
-- 🔭 Expanding the SOC lab with new detections and attack simulations
-- 📚 Studying for ISC2 CCSP
-- 💼 Looking for SOC Analyst and Security Operations roles in Dallas–Fort Worth or remote
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Obinwa012&show_icons=true&hide_border=true&count_private=true" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obinwa012&layout=compact&hide_border=true" height="170">
+
+</div>
+
+---
+
+# 🧪 Featured Security Work
+
+<details>
+<summary><strong>🔎 Cloud-Based Enterprise SOC Lab</strong></summary>
+
+<br>
+
+A cloud-hosted security operations environment built around **Wazuh SIEM/XDR**.
+
+**Focus areas:**
+
+* Security monitoring
+* Endpoint visibility
+* Alert triage
+* Log analysis
+* Attack detection
+* Incident investigation
+* Detection engineering
+
+➡️ [View the complete project](https://github.com/Obinwa012/cybersecurity-portfolio/tree/main/soc-operations/wazuh-soc-lab)
+
+</details>
+
+<details>
+<summary><strong>🚨 SSH Brute-Force Investigation</strong></summary>
+
+<br>
+
+Incident investigation involving **34 attacking IP addresses and more than 5,000 failed SSH login attempts**.
+
+**Focus areas:**
+
+* Attack timeline reconstruction
+* Source IP analysis
+* Authentication log analysis
+* IOC identification
+* Containment
+* Incident documentation
+
+➡️ [View the investigation](https://github.com/Obinwa012/cybersecurity-portfolio/tree/main/incident-response/ssh-brute-force-investigation)
+
+</details>
+
+<details>
+<summary><strong>🦠 Malware Incident — Containment to Cloud Rebuild</strong></summary>
+
+<br>
+
+End-to-end incident response workflow covering containment, investigation, remediation, and rebuilding a compromised cloud environment.
+
+➡️ [View the project](https://github.com/Obinwa012/cybersecurity-portfolio/tree/main/incident-response/malware-incident-cloud-rebuild)
+
+</details>
+
+---
+
+# 🎯 Career Focus
+
+I'm particularly interested in roles involving:
+
+**Security Engineering** · **SOC / Detection Engineering** · **Network Security**
+**DevSecOps** · **Cloud Security** · **Security Automation** · **Infrastructure Security**
+
+📍 **Dallas–Fort Worth, Texas**
+🌎 **Remote opportunities welcome**
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+<a href="https://linkedin.com/in/obinwa012">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:Obiajunwasamuel9@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
+
+**Security · Networking · Automation · Engineering**
+
+</div>
