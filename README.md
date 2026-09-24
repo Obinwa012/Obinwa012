@@ -3,7 +3,10 @@
 # Samuel Chinaemerem Obiajunwa</br>
 <b>SOC Analyst · Threat Detection & Triage · Incident Response · Cloud & Network Security</b><br>
 
-I'm a cybersecurity practitioner with a B.S. in Cybersecurity & Information Assurance (WGU) and five years of hands-on IT work across networking, endpoint administration, access control, and HIPAA-regulated data handling. I built and run a cloud-hosted SOC on Wazuh, where I triage real attack traffic, tune detections, and work incidents end to end. This GitHub is where I document that work: runbooks, detection rules, incident reports, and the tools I write along the way.
+Cybersecurity professional with a B.S. in Cybersecurity & Information Assurance and 10+ industry certifications, including CompTIA Security+,
+CySA+, PenTest+, and ISC2 SSCP. Hands-on experience in alert triage, log analysis, threat detection, and the full incident response lifecycle,
+developed by building and operating a cloud-based SOC on Wazuh SIEM/XDR. Backed by five years of enterprise IT experience across
+networking, endpoint administration, access control, and PHI handling under HIPAA.
 
 # 🎓 Certifications
 
