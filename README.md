@@ -1,4 +1,4 @@
-<h1 align="center">Samuel Obiajunwa</h1>
+<h1 align="center">Samuel Chinaemerem Obiajunwa</h1>
 <p align="center">
   <b>SOC Analyst · Threat Detection & Triage · Incident Response · Cloud & Network Security</b><br>
   Garland, TX · Open to SOC Analyst (Tier 1/2) roles
