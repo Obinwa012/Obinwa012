@@ -31,7 +31,7 @@ networking, endpoint administration, access control, and PHI handling under HIPA
 
 | Area&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Focus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |---|---|---|
-| 🖥️ **SOC Operations** | [Cloud-Based Enterprise SOC Lab](https://github.com/Obinwa012/cybersecurity-portfolio)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Wazuh SIEM/XDR · Monitoring · Alert Triage · Incident Response · Detection Engineering |
+| 🖥️ **SOC Operations** | [Cloud-Based Enterprise SOC Lab](https://github.com/Obinwa012/cybersecurity-portfolio) | Wazuh SIEM/XDR · Monitoring · Alert Triage · Incident Response · Detection Engineering |
 
 <br><br>
 
@@ -45,8 +45,8 @@ networking, endpoint administration, access control, and PHI handling under HIPA
 
 | Area&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Focus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |---|---|---|
-| 🔥 **Network Security**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Enterprise Network Security Lab](https://github.com/Obinwa012/enterprise-network-security-lab)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | FortiGate 500E · Cisco C9200 · DHCP · Routing · Firewall Fundamentals |
-| 🏪 **Retail Networking**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Multi-Site Secure Network](https://github.com/Obinwa012/multi-site-network-packet-tracer)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Packet Tracer · Router-on-a-Stick · Inter-VLAN Routing · ACL Guest Isolation |
+| 🔥 **Network Security** | [Enterprise Network Security Lab](https://github.com/Obinwa012/enterprise-network-security-lab)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | FortiGate 500E · Cisco C9200 · DHCP · Routing · Firewall Fundamentals |
+| 🏪 **Retail Networking** | [Multi-Site Secure Network](https://github.com/Obinwa012/multi-site-network-packet-tracer)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Packet Tracer · Router-on-a-Stick · Inter-VLAN Routing · ACL Guest Isolation |
 
 <br><br>
 
