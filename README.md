@@ -49,7 +49,6 @@ networking, endpoint administration, access control, and PHI handling under HIPA
 | Area                      | Project                                                                                                                                       | Focus                                   |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 | 🔥 **Network Security** | [Enterprise Network Security Lab](https://github.com/Obinwa012/enterprise-network-security-lab) | FortiGate 500E · Cisco C9200 · DHCP · Routing · Firewall Fundamentals |
-| 🤖 **Network Automation** | [Network Equipment Test Automation](https://github.com/Obinwa012/networking-portfolio/tree/main/network-automation/equipment-test-automation) | Python · Automated Testing · Validation |
 | 🏪 **Retail Networking** | [Multi-Site Secure Network](https://github.com/Obinwa012/multi-site-network-packet-tracer) | Packet Tracer · Router-on-a-Stick · Inter-VLAN Routing · ACL Guest Isolation |
 
 <br><br>
@@ -65,4 +64,3 @@ networking, endpoint administration, access control, and PHI handling under HIPA
 | Area                          | Project                                                                                                                                      | Focus                               |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
 | 💻 **Full-Stack Development** | [XHIBO.com — Production E-Commerce Platform](https://github.com/Obinwa012/devops-portfolio/tree/main/full-stack-development/xhibo-ecommerce) | Full-Stack · React · Firebase       |
-| 🔄 **DevOps**                 | *More projects coming*                                                                                                                       | CI/CD · Automation · Infrastructure |
