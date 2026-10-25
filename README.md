@@ -3,8 +3,8 @@
 # Samuel Chinaemerem Obiajunwa
 
 Cybersecurity professional with a B.S. in Cybersecurity & Information Assurance and 10+ industry certifications, including CompTIA Security+,
-CySA+, PenTest+, and ISC2 SSCP. Hands-on experience in alert triage, log analysis, threat detection, and the full incident response lifecycle,
-developed by building and operating a cloud-based SOC on Wazuh SIEM/XDR. Backed by five years of enterprise IT experience across
+CySA+, PenTest+, and ISC2 SSCP. Hands-on experience in alert triage, log analysis, threat detection, and incident response,
+developed by building, defending, and rebuilding a cloud-based SOC (Wazuh, then Elastic Security) against live attack traffic. Backed by five years of enterprise IT experience across
 networking, endpoint administration, access control, and PHI handling under HIPAA.
 <br><br>
 
@@ -23,7 +23,7 @@ networking, endpoint administration, access control, and PHI handling under HIPA
 
 # 🛡️ Cybersecurity
 
-<a href="https://github.com/Obinwa012/cybersecurity-portfolio">
+<a href="https://github.com/Obinwa012/nexus-freight-soc-lab">
 <img src="https://img.shields.io/badge/EXPLORE_CYBERSECURITY_PORTFOLIO-161B22?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -31,17 +31,11 @@ networking, endpoint administration, access control, and PHI handling under HIPA
 
 | Area&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Focus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |---|---|---|
-| 🖥️ **SOC Operations** | [Cloud-Based Enterprise SOC Lab](https://github.com/Obinwa012/nexus-freight-soc-lab) | Wazuh SIEM/XDR · Monitoring · Alert Triage · Incident Response · Detection Engineering |
+| 🖥️ **SOC Operations** | [Nexus Freight SOC Lab](https://github.com/Obinwa012/nexus-freight-soc-lab) | Wazuh &amp; Elastic SIEM · Alert Triage · Incident Response · Detection Engineering · WAF / IDS |
 
 <br><br>
 
 # 🌐 Networking
-
-<a href="https://github.com/Obinwa012/networking-portfolio">
-<img src="https://img.shields.io/badge/EXPLORE_NETWORKING_PORTFOLIO-161B22?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<br>
 
 | Area&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Focus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |---|---|---|
@@ -52,12 +46,6 @@ networking, endpoint administration, access control, and PHI handling under HIPA
 
 # ⚙️ Software Engineering
 
-<a href="https://github.com/Obinwa012/devops-portfolio">
-<img src="https://img.shields.io/badge/EXPLORE_DEVOPS_PORTFOLIO-161B22?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<br>
-
 | Area&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Focus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |---|---|---|
-| 💻 **Full-Stack Development**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [XHIBO.com — Production E-Commerce Platform](https://github.com/Obinwa012/devops-portfolio/tree/main/full-stack-development/xhibo-ecommerce) | Full-Stack · React · Firebase&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| 💻 **Full-Stack Development**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [XHIBO.com (Production E-Commerce Platform)](https://github.com/Obinwa012/XHIBO) | Full-Stack · React · Firebase&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
